@@ -1,0 +1,36 @@
+# Node modules
+/node_modules
+
+# Build output
+/dist
+/build
+
+# Environment files
+.env
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Dependency directories
+/.pnp
+.pnp.js
+
+# Optional cache and debug files
+coverage/
+.cache/
+.tmp/
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Mi
